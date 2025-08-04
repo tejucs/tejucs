@@ -25,7 +25,7 @@ Technical Skillsets:
 11.Skilled in diverse AI tools for productivity optimization, such as ChatGPT, Google Gemini, Claude,
 
 Interests:
-🚀 Exploring advancements in Generative AI
+- 🚀 Exploring advancements in Generative AI
 📚 Staying updated with advancements of AI/ML & Gen AI through global conferences, research papers and technical courses
 🎨 Designing innovative AI solutions for global challenges
 
